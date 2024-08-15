@@ -1,7 +1,7 @@
 <h1>Identifying File Systems</h1>
 
 <h2>Description</h2>
-Use FTK Imager to identify the file systems from imaged devices.
+Used FTK Imager to identify the file systems from imaged devices.
 <br />
 
 <h2>Lab Certification:</h2>
