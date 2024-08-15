@@ -8,7 +8,7 @@ Used FTK Imager to identify the file systems from imaged devices.
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/uBQslsr.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
